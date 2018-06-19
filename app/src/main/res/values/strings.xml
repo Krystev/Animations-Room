@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hint_content">Enter content for next screen</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete all</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">OK</string>
+</resources>
